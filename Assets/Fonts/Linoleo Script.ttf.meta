@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b1333691378e01b4dba1e504e01c8211
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Linoleo Script
+  fontNames:
+  - Linoleo Script
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 07935424380ac9d4ab30cf54eb2f3bd0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
